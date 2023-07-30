@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>READ THIS SHYET</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="letter">
+        <h1>Letter for You</h1>
+        <p>
+            Dear ...,
+        </p>
+        <p>
+            I hope this letter finds you well and that it reaches you. No words can adequately convey how sorry I am for the behaviors which led our relationship to fall apart. I am writing you today with a sorry heart, begging for forgiveness and understanding for what I have done.
+        </p>
+        <p>
+            I am aware that you might need some time and space to heal from the pain I may have caused. But I do hope that one day we can sit down and have an open conversation about how we're feeling, what we've been through, and whether or not we think we can move ahead as the others.
+
+I want you to know how much I treasure the times we spent together and how strongly I still feel about our amazing bond. I am prepared to put up the time and effort needed to slowly regain what was lost in a patient and compassionate manner.
+        </p>
+        <p>
+            Sincerely,
+            Burdagul    
+        </p>
+    </div>
+</body>
+</html>
